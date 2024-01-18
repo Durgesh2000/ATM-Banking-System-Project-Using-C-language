@@ -22,7 +22,7 @@ void main(){
 
    printf("\t\t\t\t\t       %s",ctime(&now));//current time and date will be appear at the top
 
-   printf("\n\t\t\t******************WELCOME TO CODE WITH CURIOUS ATM*******************");
+   printf("\n\t\t\t******************WELCOME TO CODE WITH  ATM*******************");
 
 
 
